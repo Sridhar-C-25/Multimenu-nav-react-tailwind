@@ -2,7 +2,7 @@
 ## Description
 Responsive Multimenu navigation bar using react js, tailwind css and framer motion
 
-![Live preview](https://multimenu-nav-react-tailwind.vercel.app/)
+
 
 ![unnamed](https://github.com/user-attachments/assets/61cc9abd-728f-473b-84c2-8ff433a2b63c)
 
@@ -10,6 +10,7 @@ Responsive Multimenu navigation bar using react js, tailwind css and framer moti
  - Easily customizable navigation bar.
  - Supports dropdown menus.
  - Responsive design for mobile and desktop views.
+ - [Live Preview](https://multimenu-nav-react-tailwind.vercel.app/)
 
 ## Installation
 1. Clone the repository:
